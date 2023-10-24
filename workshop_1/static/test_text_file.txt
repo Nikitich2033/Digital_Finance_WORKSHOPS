@@ -1,2 +1,3 @@
-This file contains some content.
-There is more content in this file.
+version https://git-lfs.github.com/spec/v1
+oid sha256:676dd6a45250a49808520e3936d6ae0e80d90e28db70e76cd738bc6d209deabe
+size 68
